@@ -9,12 +9,7 @@
 
 
 
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
 
-Tiny package that checks if a basename (`.gitignore`, `example.js`) is
-hidden (starts with a dot).
 
 
 
