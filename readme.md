@@ -150,3 +150,4 @@ This package is safe.
 [typescript]: https://www.typescriptlang.org
 
 [contribute]: https://opensource.guide/how-to-contribute/
+
