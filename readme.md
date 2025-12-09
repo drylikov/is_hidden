@@ -3,7 +3,7 @@
 
 
 
-# is hidden
+# Is hidden
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
