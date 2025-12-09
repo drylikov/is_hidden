@@ -36,7 +36,7 @@ hidden (starts with a dot).
 *   [Compatibility](#compatibility)
 *   [Contribute](#contribute)
 *   [Security](#security)
-*   [License](#license)
+
 
 ## What is this?
 
