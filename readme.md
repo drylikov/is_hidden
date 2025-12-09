@@ -100,8 +100,6 @@ See [How to Contribute to Open Source][contribute].
 
 This package is safe.
 
-## License
-
 <!-- Definitions -->
 
 [build-badge]: https://github.com/drylikov/is-hidden/workflows/main/badge.svg
