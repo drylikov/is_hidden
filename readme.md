@@ -17,6 +17,7 @@ Tiny package that checks if a basename (`.gitignore`, `example.js`) is
 hidden (starts with a dot).
 
 
+
 ## Contents
 
 *   [What is this?](#what-is-this)
