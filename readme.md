@@ -38,6 +38,7 @@ hidden (starts with a dot).
 *   [Security](#security)
 
 
+
 ## What is this?
 
 Tiny package that checks if a basename is hidden.
