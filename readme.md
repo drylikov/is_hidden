@@ -45,6 +45,7 @@ hidden (starts with a dot).
 
 
 
+
 Tiny package that checks if a basename is hidden.
 
 ## When should I use this?
