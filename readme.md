@@ -102,6 +102,7 @@ isHidden('.git') // => true
 isHidden('readme.md') // => false
 ```
 
+
 ## API
 
 This package exports the identifier `isHidden`.
