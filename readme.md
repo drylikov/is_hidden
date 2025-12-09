@@ -39,6 +39,7 @@ hidden (starts with a dot).
 
 
 
+
 ## What is this?
 
 Tiny package that checks if a basename is hidden.
