@@ -94,6 +94,7 @@ In browsers with [`esm.sh`][esmsh]:
 
 
 
+
 ```js
 import {isHidden} from 'is-hidden'
 
